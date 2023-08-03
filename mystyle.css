@@ -1,0 +1,12 @@
+body {
+    background-color: lightblue;
+}
+h1,h2 {
+    background-color: rgb(50, 50, 78);
+    color: aliceblue;
+    text-align: center;
+    font-family: 'Monaco', monospace;
+}
+p {
+    background-color: rgb(244, 246, 248);
+}
